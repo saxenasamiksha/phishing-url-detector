@@ -1,0 +1,6 @@
+url,label
+http://login-update-security.com,phishing
+https://secure.bankofamerica.verify-user.com,phishing
+http://example.com/home,legitimate
+https://accounts.google.com,legitimate
+http://phishingsite.ru/verify,phishing
